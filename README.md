@@ -10,4 +10,4 @@ B榜 Rank 17 score 0.504\
 ![image](images/train_creditBill.jpeg)
 ![image](images/train_bankStatement.jpeg)
 
-Sites：cchan:https://github.com/cchan19
+Cites：cchan:https://github.com/cchan19
